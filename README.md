@@ -39,3 +39,5 @@ npx create-next-app@latest --typescript
 ## add tailwindcss
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
+
+## npm install sass
